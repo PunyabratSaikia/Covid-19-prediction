@@ -12,7 +12,7 @@ Following are the step-by-step procedure of training our model:
 
 1:Importing data-sets from google drive
 
-2.Extracting the images from the datasets resizing them.
+2.Extracting the images from the datasets and resizing them.
 
 3.Converting the images into matrices with the help of open CV and normalizing the pixel-intensities to 255.
 
