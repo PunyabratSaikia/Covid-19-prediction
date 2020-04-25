@@ -12,13 +12,23 @@ Following are the step-by-step procedure of training our model:
 
 1:Importing data-sets from google drive
 
-2.Extracting the images from the datasets and resizing them.
-
-3.Converting the images into matrices with the help of open CV and normalizing the pixel-intensities to 255.
+2.Extracting the images from the datasets resizing them,converting the images into matrices with the help of open CV and normalizing the pixel-intensities to 255.
 
 4.Extracting the labels of the images and converting them to one-hot-encoded-vectors.
 
-Note:We are now working on creating a CNN model for this dataset to train our model and get desired results.
+5.Splitting data into 75% training and 25% testing for testing randomly.
+
+6.Building A VGG-neural network architeture, a well known deep-convolutional-neural network which performs well on image datasets.
+More about VGG-architecture can be found in this link:https://www.quora.com/What-is-the-VGG-neural-network
+
+7.Using adam's optimizer algorithm to reduce the loss of our cost function.
+
+8.Predicting the labels our our test-data after the model  is trained.
+
+9.Creating the confusion-matrix, analyzing the accuracy,precison,f1-score and other measures and plotting the training loss(and accuracy) against the testing loss(and testing accuracy).
+
+10.We were able to achieve a good 92% accuracy on the test set.
+
 
 
 
