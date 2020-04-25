@@ -1,4 +1,4 @@
-# Covid-19-prediciton
+# Covid-19-predicition
 
 We are exploring images of chests of patients to detect the presence of covid-19.
 Since COVID-19 attacks the epithelial cells that line our respiratory tract, we can use
