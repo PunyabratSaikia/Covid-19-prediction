@@ -18,7 +18,7 @@ Following are the step-by-step procedure of training our model:
 
 4.Extracting the labels of the images and converting them to one-hot-encoded-vectors.
 
-5.Splitting data into 75% training and 25% testing for testing randomly.
+5.Splitting data randomly into 75% training and 25% testing data.
 
 6.Building A VGG-neural network architecture, a well known deep-convolutional-neural network which performs well on image datasets.
 More about VGG-architecture can be found in this link:https://www.quora.com/What-is-the-VGG-neural-network
