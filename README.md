@@ -1,6 +1,6 @@
 # Covid-19-prediciton
 
-We are exploring X-ray images of chests of patients to detect the presence of covid-19.
+We are exploring images of chests of patients to detect the presence of covid-19.
 Since COVID-19 attacks the epithelial cells that line our respiratory tract, we can use
 X-rays to analyze the health of a patient’s lungs.
 
