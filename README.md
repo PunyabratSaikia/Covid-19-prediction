@@ -18,7 +18,7 @@ Following are the step-by-step procedure of training our model:
 
 4.Extracting the labels of the images and converting them to one-hot-encoded-vectors.
 
-Note:We are now working on created a CNN model for this dataset to train our model and get desired results.
+Note:We are now working on creating a CNN model for this dataset to train our model and get desired results.
 
 
 
