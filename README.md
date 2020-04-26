@@ -6,7 +6,13 @@ Coronavirus disease 2019 (COVID-19) is a highly infectious disease caused by sev
 
 Though research suggests that social distancing can significantly reduce the spread and flatten the curve as shown in Fig. 3a, but is that sustainable? 
 
-We are exploring images of chests of patients to detect the presence of covid-19.
+![plot5](https://user-images.githubusercontent.com/44751602/80305443-52ccdf80-87da-11ea-8e70-91ba16075120.png)
+
+Fast and accurate diagnostic methods are urgently needed to combat the disease. In a very recent paper ‘A deep learning algorithm using CT images to screen for Corona Virus Disease (COVID-19)’ published by Shuai Wang et. al they have used Deep Learning in extracting COVID-19’s graphical features from Computerized Tomography (CT) scans (images) in order to provide a clinical diagnosis ahead of the pathogenic test, thus saving critical time for disease control.
+
+The study used transfer learning with an Inception Convolutional Neural Network (CNN) on 1,119 CT scans. The internal and external validation accuracy of the model was recorded at 89.5% and 79.3%, respectively.
+
+In our study,we are not dealing with CT scan images but exploring images of chests of patients to detect the presence of covid-19.
 Since COVID-19 attacks the epithelial cells that line our respiratory tract, we can use
 X-rays to analyze the health of a patient’s lungs.
 
