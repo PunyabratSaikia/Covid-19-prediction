@@ -12,6 +12,8 @@ Fast and accurate diagnostic methods are urgently needed to combat the disease. 
 
 The study used transfer learning with an Inception Convolutional Neural Network (CNN) on 1,119 CT scans. The internal and external validation accuracy of the model was recorded at 89.5% and 79.3%, respectively.
 
+Link for the paper:https://www.medrxiv.org/content/10.1101/2020.02.14.20023028v4
+
 In our study,we are not dealing with CT scan images but exploring images of chests of patients to detect the presence of covid-19.
 Since COVID-19 attacks the epithelial cells that line our respiratory tract, we can use
 X-rays to analyze the health of a patient’s lungs.
