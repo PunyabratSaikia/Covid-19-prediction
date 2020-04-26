@@ -1,6 +1,9 @@
 # Covid-19-prediction
 
-Coronavirus disease 2019 (COVID-19) is a highly infectious disease caused by severe acute respiratory syndrome coronavirus 2. The disease first originated in December 2019 from Wuhan, China and since then it has spread globally across the world affecting more than 200 countries. The impact is such that the World Health Organization(WHO) has declared the ongoing pandemic of COVID-19 a Public Health Emergency of International Concern
+Coronavirus disease 2019 (COVID-19) is a highly infectious disease caused by severe acute respiratory syndrome coronavirus 2. The disease first originated in December 2019 from Wuhan, China and since then it has spread globally across the world affecting more than 200 countries. The impact is such that the World Health Organization(WHO) has declared the ongoing pandemic of COVID-19 a Public Health Emergency of International Concern.
+
+![plot3](https://user-images.githubusercontent.com/44751602/80305404-08e3f980-87da-11ea-907f-956548efe046.png)
+
 
 
 We are exploring images of chests of patients to detect the presence of covid-19.
