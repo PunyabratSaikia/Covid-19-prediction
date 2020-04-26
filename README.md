@@ -1,5 +1,8 @@
 # Covid-19-prediction
 
+Coronavirus disease 2019 (COVID-19) is a highly infectious disease caused by severe acute respiratory syndrome coronavirus 2. The disease first originated in December 2019 from Wuhan, China and since then it has spread globally across the world affecting more than 200 countries. The impact is such that the World Health Organization(WHO) has declared the ongoing pandemic of COVID-19 a Public Health Emergency of International Concern
+
+
 We are exploring images of chests of patients to detect the presence of covid-19.
 Since COVID-19 attacks the epithelial cells that line our respiratory tract, we can use
 X-rays to analyze the health of a patient’s lungs.
