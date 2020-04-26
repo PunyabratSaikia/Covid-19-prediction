@@ -4,7 +4,7 @@ Coronavirus disease 2019 (COVID-19) is a highly infectious disease caused by sev
 
 ![plot3](https://user-images.githubusercontent.com/44751602/80305404-08e3f980-87da-11ea-907f-956548efe046.png)
 
-
+Though research suggests that social distancing can significantly reduce the spread and flatten the curve as shown in Fig. 3a, but is that sustainable? 
 
 We are exploring images of chests of patients to detect the presence of covid-19.
 Since COVID-19 attacks the epithelial cells that line our respiratory tract, we can use
