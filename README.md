@@ -4,7 +4,7 @@ Coronavirus disease 2019 (COVID-19) is a highly infectious disease caused by sev
 
 ![plot3](https://user-images.githubusercontent.com/44751602/80305404-08e3f980-87da-11ea-907f-956548efe046.png)
 
-Though research suggests that social distancing can significantly reduce the spread and flatten the curve as shown in Fig. 3a, but is that sustainable? 
+Though research suggests that social distancing can significantly reduce the spread and flatten the curve as shown, but is that sustainable? 
 
 ![plot5](https://user-images.githubusercontent.com/44751602/80305443-52ccdf80-87da-11ea-8e70-91ba16075120.png)
 
