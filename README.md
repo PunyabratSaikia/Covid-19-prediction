@@ -37,6 +37,8 @@ Following are the step-by-step procedure of training our model:
 6.Building A VGG-neural network architecture, a well known deep-convolutional-neural network which performs well on image datasets.
 More about VGG-architecture can be found in this link:https://www.quora.com/What-is-the-VGG-neural-network
 
+![main-qimg-4eb892d2fa56e21288ae723397f5f329](https://user-images.githubusercontent.com/44751602/90358523-e4a37580-e073-11ea-969d-7b4d6be42a31.png)
+
 7.Using adam's optimizer algorithm to reduce the loss of our cost function.
 
 8.Predicting the labels our our test-data after the model  is trained.
