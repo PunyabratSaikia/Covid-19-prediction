@@ -39,6 +39,8 @@ More about VGG-architecture can be found in this link:https://www.quora.com/What
 
 ![main-qimg-4eb892d2fa56e21288ae723397f5f329](https://user-images.githubusercontent.com/44751602/90358523-e4a37580-e073-11ea-969d-7b4d6be42a31.png)
 
+The top figure is the architecture of AlexNet while the bottom one is of VGG-16.
+
 7.Using adam's optimizer algorithm to reduce the loss of our cost function.
 
 8.Predicting the labels our our test-data after the model  is trained.
