@@ -18,7 +18,7 @@ In our study,we are not dealing with CT scan images but exploring images of ches
 Since COVID-19 attacks the epithelial cells that line our respiratory tract, we can use
 X-rays to analyze the health of a patient’s lungs.
 
-Link for the dataset:https://drive.google.com/open?id=1bIFGTSfrJgHWmh8_LUqsUVhW8ZWIdar3
+Link for the dataset:https://drive.google.com/drive/folders/1BkJqTIKLv6cXN9jLzxk9210k0V64OW59?usp=sharing
 
 For this purpose we are building our model on Google Colab to give us the necessary computation power and easy access to all the required libraries.
 
